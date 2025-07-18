@@ -49,12 +49,38 @@ Graphic Designer (based on your strong UI/UX and creative skills)
 ## 📸 Screenshots
 
 
- 🏠 **Homepage**              ![Homepage](./homepage.png) |
- 📂 **Dataset Preview**       ![Dataset](./dataset(csv).png) |
- 🧠 **Model Training**        ![Training](./train_model(py).png) |
- 📝 **Input Form**            ![Input](./input.png) |
- 📊 **Output Results**        ![Output](./output.png) |
- 💻 **App Interface**         ![App](./app(py).png) |
+## 📸 Screenshots
+
+### 🏠 Homepage
+<a href="./screenshots/homepage.png" target="_blank">
+  <img src="./screenshots/homepage.png" width="400"/>
+</a>
+
+### 📂 Dataset Preview
+<a href="./screenshots/dataset(csv).png" target="_blank">
+  <img src="./screenshots/dataset(csv).png" width="400"/>
+</a>
+
+### 🧠 Model Training
+<a href="./screenshots/train_model(py).png" target="_blank">
+  <img src="./screenshots/train_model(py).png" width="400"/>
+</a>
+
+### 📝 Input Form
+<a href="./screenshots/input.png" target="_blank">
+  <img src="./screenshots/input.png" width="400"/>
+</a>
+
+### 📊 Output Results
+<a href="./screenshots/output.png" target="_blank">
+  <img src="./screenshots/output.png" width="400"/>
+</a>
+
+### 💻 App Interface
+<a href="./screenshots/app(py).png" target="_blank">
+  <img src="./screenshots/app(py).png" width="400"/>
+</a>
+
 
 ---
 
